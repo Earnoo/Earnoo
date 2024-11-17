@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza Jahani</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Scientist at Applied Robotics and AI Solutions(ARAS)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earnoo&label=Profile%20views&color=0e75b6&style=flat" alt="earnoo" /> </p>
 
